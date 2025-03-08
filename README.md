@@ -24,6 +24,9 @@ Visual Analytics: The dashboard includes a Stacked Bar Chart to visualize the di
 
 User-Friendly Interface: Designed for ease of use, the dashboard ensures that team members from various departments can navigate and extract insights effortlessly.
 
+![AtliQ Sales Insight](Screenshot%202025-03-08%20190247.png)
+
+
 Results:
 
 The implementation of the Power BI sales dashboard resulted in:
@@ -33,6 +36,9 @@ Increased Efficiency: Stakeholders and  the Director of Sales can now access rea
 Improved Decision-Making: With clear visualizations, teams can quickly identify trends and make data-driven decisions to optimize sales strategies.
 
 Enhanced Collaboration: The centralized dashboard fosters collaboration among departments, enabling a unified approach to sales performance analysis.
+
+![AtliQ Sales Insight](Screenshot%202025-03-08%20190442.png)
+
 
 
 
