@@ -1,4 +1,4 @@
-Unlock Your Sales Potential with Power BI:- 
+## Unlock Your Sales Potential with Power BI:- 
 
 In today’s fast-paced business environment, having real-time insights into sales performance is crucial for making informed decisions. Our latest project addresses a common business challenge: how to effectively analyse and visualize sales data to drive growth and improve performance.
 
